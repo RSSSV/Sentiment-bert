@@ -19,7 +19,7 @@ Optionally, you can change output dir for weights or input dir for dataset.
 
 ## Evaluate weights
 
-You can find out how great you are (until your grandma gets her hands on BERT as well) simply by running
+You can find out how great simply by running
 
 `python script.py --evaluate`
 
